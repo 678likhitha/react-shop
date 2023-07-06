@@ -1,0 +1,50 @@
+
+.filters {
+    background-color: #f8f9fa !important;
+    color: black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 10px;
+    height: 86vh;
+  }
+  .home {
+    display: flex;
+  }
+  .navCls {
+    flex-direction: column  !important;
+    display: flex;
+  }
+  .productContainer {
+    display: flex;
+    width: 78%;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .products {
+    width: 70%;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+  }
+  .product {
+    width: 8rem !important;
+    height: 4rem  !important;
+  }
+  .subTotalCards{
+    margin-top: 10px  !important;
+    border: 2 px solid black !important;
+  }
+  .subTotalCards 
+   {
+  .card {
+    border: 1px solide gray !important;
+    background: rgb(251, 249, 247) !important;
+    color: black  !important;
+    font-size: 16px !important;
+    font-family: "italic" !important;
+  }
+}
